@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Betano</string>
+    <string name="score">Score</string>
+    <string name="exit">Exit</string>
+    <string name="start">Start</string>
+    <string name="record">Record</string>
+    <string name="menu">Menu</string>
+    <string name="recordTitle">Record</string>
+    <string name="_0">0</string>
+    <string name="mini_game">MINI GAME</string>
+
+    <string name="title_1">Click on ball</string>
+    <string name="title_2">Dont miss</string>
+    <string name="title_3">View Records</string>
+    <string name="description_1">Score points by clicking on the ball</string>
+    <string name="description_2">Be careful not to miss the ball or you will lose!</string>
+    <string name="description_3">After completing the game,view your result.
+        You can see your Records scores.</string>
+</resources>
